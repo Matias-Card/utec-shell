@@ -11,3 +11,5 @@ Este proyecto contiene scripts para gestionar permisos de archivos y usuarios en
 - 6-multiple_permissions: añade permiso de ejecución al propietario y al grupo, y permiso de lectura a otros usuarios en el archivo hello.
 - 7-everybody: añade permiso de ejecución al propietario, al grupo y a los demás usuarios en el archivo hello.
 - 8-James_Bond: establece los permisos del archivo hello para que el propietario y el grupo no tengan permisos y los demás usuarios tengan todos los permisos.
+- 9-John_Doe: establece los permisos del archivo hello en rwxr-x-wx.
+
