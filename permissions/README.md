@@ -14,4 +14,5 @@ Este proyecto contiene scripts para gestionar permisos de archivos y usuarios en
 - 9-John_Doe: establece los permisos del archivo hello en rwxr-x-wx.
 - 10-mirror_permissions: establece los permisos de hello iguales a los permisos de olleh.
 - 11-directories_permissions: añade permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo y los demás usuarios.
+- 12-directory_permissions: crea el directorio my_dir con permisos 751.
 
