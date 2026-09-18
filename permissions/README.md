@@ -15,4 +15,5 @@ Este proyecto contiene scripts para gestionar permisos de archivos y usuarios en
 - 10-mirror_permissions: establece los permisos de hello iguales a los permisos de olleh.
 - 11-directories_permissions: añade permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo y los demás usuarios.
 - 12-directory_permissions: crea el directorio my_dir con permisos 751.
+- 13-change_group: cambia el grupo propietario del archivo hello a school.
 
