@@ -16,4 +16,4 @@ Este proyecto contiene scripts para gestionar permisos de archivos y usuarios en
 - 11-directories_permissions: añade permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo y los demás usuarios.
 - 12-directory_permissions: crea el directorio my_dir con permisos 751.
 - 13-change_group: cambia el grupo propietario del archivo hello a school.
-
+- 14-change_owner_and_group: cambia el propietario a vincent y el grupo a staff de todos los archivos y directorios del directorio actual.
